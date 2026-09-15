@@ -3,41 +3,40 @@
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
+> Varias pessoas tem dificuldades de controlar os gastos com cartão de credito, pois os mesmos deixam que apos um cartão ter ultrapassado o limite de um ir
+>para outro criando assim mais dividas e entrando no efeito bola de neve.
 
 [Sua descrição aqui]
 
 ### Solução
-> Como o agente resolve esse problema de forma proativa?
+> Criar um limite unico onde caso o usuario com avisos de quanto ainda o usuario pode gastar e bloqueando todos os outros caso o limite seja excedido.
 
-[Sua descrição aqui]
 
 ### Público-Alvo
-> Quem vai usar esse agente?
 
-[Sua descrição aqui]
+> O publico alvo serão os usuarios que ultrapassam o limite de um cartão e começam a usor outro
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+Sofia
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
+- O agente se comporta de forma direta e educativa
 
 [Sua descrição aqui]
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
+> O tom e cmo de um pai que instrui um filho
 
 [Sua descrição aqui]
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
-- Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
-- Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
+- Saudação: Olá  eu dou a Sofia,  gostria de verificar seus limites agora?
+- Confirmação: ok vamos verificar isso para você agora."]
+- Erro/Limitação: seu credito tem limite!, seu credito atingiu o limite!
 
 ---
 
@@ -73,7 +72,7 @@ flowchart TD
 - [ ] [ex: Agente só responde com base nos dados fornecidos]
 - [ ] [ex: Respostas incluem fonte da informação]
 - [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+  
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
